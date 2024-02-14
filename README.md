@@ -24,7 +24,7 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor"/>
 <br/>
 
 #
