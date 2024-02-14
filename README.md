@@ -4,11 +4,9 @@
 
 🌟 About Me 🌟
 
-I'm a dedicated software engineer, team player, passionate about technology and problem-solving. I thrive in fastpaced environments, embrace change for personal growth.
-
-🌱 Learning & Growing 🌱
-
-I am a staunch supporter of continuous learning, and GitHub is my go-to platform for discovering and contributing to open-source projects. I'm eager to share my knowledge and collaborate with the brilliant minds in this dynamic community, all while expanding my own skills and insights.
+- I'm a dedicated software engineer, team player, passionate about technology and problem-solving. I thrive in fastpaced environments, embrace change for personal growth.
+  
+- I am a staunch supporter of continuous learning, and GitHub is my go-to platform for discovering and contributing to open-source projects. I'm eager to share my knowledge and collaborate with the brilliant minds in this dynamic community, all while expanding my own skills and insights.
 
 ---
 
